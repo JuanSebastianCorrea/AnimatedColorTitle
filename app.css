@@ -3,7 +3,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(207, 171, 116);
+    background-image: url("https://altmanplants.com/wp-content/uploads/screen-saver-29.jpg");
+    background-size: cover;
 }
 
 h1 {
