@@ -1,16 +1,16 @@
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: rgb(207, 171, 116);
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: rgb(21, 32, 21);
 }
 
 h1 {
-    font-size: 15rem;
-    font-family: Montserrat;
+	font-size: 15rem;
+	font-family: Montserrat;
 }
 
-.letter{
-    transition: color 1000ms;
+.letter {
+	transition: color 1000ms;
 }
